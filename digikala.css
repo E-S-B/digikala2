@@ -1,0 +1,47 @@
+@font-face {
+    font-family: IRANYekan;
+    src: url("fonts/yekan.woff")format("woff");
+}
+
+body, html {
+
+    font-family: IRANYekan, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 0;
+    direction: rtl;
+}
+
+
+body a:hover{
+    text-decoration-line: none;
+}
+
+#grean-header{
+    background-image: url("image/header-background.jpg");
+}
+
+#grean-header a{
+    color: black;
+}
+
+.icon-style{
+    vertical-align: middle;
+    font-size: 13px;
+}
+
+.H-text-style{
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+.menu-icon{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+#header1{
+    background-color: #ededed;
+}
