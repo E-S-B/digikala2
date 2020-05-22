@@ -31,10 +31,173 @@ body{
     font-family: yekan;
 }
 
-.main-nav-logo{
+header{
+    background-color: white;
+    box-shadow: rgba(0,0,0,.04) 0 7px 8px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    padding-top: 12px;
+}
+
+.header .main-navbar{
+    width: 100%;
+    min-width: 1009px;
+    max-width: 1626px;
+    margin: 0 auto;
+}
+
+.header .main-nav-logo{
     display: block;
-    background-image: url("image/logo.svg");
+    background: url("image/logo.svg") no-repeat 50%;
     height: 44px;
     width: 110px;
     background-size: contain;
+}
+
+.header .search-box{
+    border-radius: 5px;
+    margin-right: 24px;
+    background-color: #f0f0f1;
+    height: 44px;
+    box-sizing: border-box;
+    padding: 4px 10px;
+    width: 60%;
+    display: flex;
+}
+
+.header .search-box:before{
+    font-family: digikala;
+    content: "\E13B\00FE0E";
+    display: block;
+    color: #a1a3a8;
+    font-size: 24px;
+    padding-top: 3px;
+    width: 36px;
+    height: 36px;
+}
+
+.header .search-box input[type=text]{
+    height: 36px;
+    width: calc(100% - 60px);
+    color: #959596;
+    font-size: 14px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: yekan;
+}
+
+.login-btn{
+    display: flex;
+    align-items: center;
+    font-family: yekan;
+    font-size: 12px;
+}
+
+.login-btn:before{
+    font-family: digikala;
+    content: "\E193\00FE0E";
+    font-size: 20px;
+    display: block;
+    margin-left: 10px;
+}
+
+.line-style{
+    display: inline-block;
+    margin: 0 6px;
+    height: 30px;
+    border-right: 1px solid #e0e0e2;
+    vertical-align: middle;
+}
+
+.scrin:before{
+    content: "\E0D5\00FE0E";
+    font-family: digikala;
+    display: block;
+    font-size: 20px;
+}
+
+.menu{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.menu >li:not([class=hover]){
+    color: #616161;
+    cursor: pointer;
+    padding: 0 10px;
+    font-size: 12px;
+    line-height: 40px;
+    z-index: 4;
+}
+
+.menu >li .hover{
+    position: absolute;
+    right: 15px;
+    text: 0;
+    bottom: 0;
+    height: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    width: 0;
+    z-index: 3;
+    transform: scale(1);
+}
+
+.bars-icon:before{
+    content: "\E138\00FE0E";
+    font-family: digikala;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-size: 20px;
+}
+
+.bucket-icon:before{
+    content: "\E089\00FE0E";
+    font-family: digikala;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-size: 20px;
+}
+
+.discount-icon:before{
+    content: "\E057\00FE0E";
+    font-family: digikala;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-size: 20px;
+
+}
+
+.certified-icon:before{
+    content: "\E075\00FE0E";
+    font-family: digikala;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-size: 20px;
+
+}
+
+.chain-icon:before{
+    content: "\E0FB\00FE0E";
+    font-family: digikala;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-size: 20px;
+
+}
+
+.menu >li.hoverb >div:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    z-index: 3;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #ef5661;
 }

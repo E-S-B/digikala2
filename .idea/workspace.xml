@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74e38609-203a-4e53-88f4-b6e14da87569" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/digikala.css" beforeDir="false" afterPath="$PROJECT_DIR$/digikala.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/digikala.html" beforeDir="false" afterPath="$PROJECT_DIR$/digikala.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IRANSansWeb200.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IRANSansWeb300.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IRANSansWeb400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IRANSansWeb500.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IRANSansWeb600.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IRANSansWeb900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/yekan.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/yekan.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/a6cda4ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/forward.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/header-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/icons8-help-50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/image3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/kala9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/logo-xS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/tabligh2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/tabligh3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/tablugh1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/تبلیغ 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/دستمال کاذی.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/دیجی پی.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/پرفروش ترین.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/پوشک.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/پیشنهتد اولین خرید.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/DIGIKALAgava.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/DIGIKALAgava.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/digikala.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="220">
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -67,8 +26,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/digikala.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="-426">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/DIGIKALAgava.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -100,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -117,11 +85,6 @@
             <path>
               <item name="digikala2" type="b2602c69:ProjectViewProjectNode" />
               <item name="digikala2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="digikala2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="digikala2" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,12 +131,12 @@
       <workItem from="1589984230911" duration="52000" />
       <workItem from="1589984382443" duration="611000" />
       <workItem from="1590097701596" duration="1976000" />
-      <workItem from="1590152500576" duration="1266000" />
+      <workItem from="1590152500576" duration="10047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37173000" />
+    <option name="totallyTimeSpent" value="45954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -257,13 +220,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NewsCss.css" />
     <entry file="file://$PROJECT_DIR$/news.html" />
-    <entry file="file://$PROJECT_DIR$/js/DIGIKALAgava.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../HTML-project/ESB.main/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -297,17 +253,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/DIGIKALAgava.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/digikala.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="220">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/digikala.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="-426">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
         </state>
       </provider>
     </entry>
