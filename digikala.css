@@ -118,15 +118,64 @@ header{
     font-size: 20px;
 }
 
+.menu .bars-icon:before{
+    font-family: digikala;
+    content: "\E138\00FE0E";
+    font-size: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+.menu .bucket-icon:before{
+    font-family: digikala;
+    content: "\E089\00FE0E";
+    font-size: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+.menu .discount-icon:before{
+    font-family: digikala;
+    content: "\E057\00FE0E";
+    font-size: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+.menu .certified-icon:before{
+    font-family: digikala;
+    content: "\E075\00FE0E";
+    font-size: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+.menu .chain-icon:before{
+    font-family: digikala;
+    content: "\E0FB\00FE0E";
+    font-size: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+.location-icon:after{
+    font-family: digikala;
+    content: "\E155\00FE0E";
+    font-size: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+
 .menu{
-    display: flex;
     margin: 0;
     padding: 0;
     display: flex;
 }
 
-.menu >li:not([class=hover]){
-    color: #616161;
+.menu > li:not([class=hover]){
+    color: #404748;
+    font-family: yekan;
     cursor: pointer;
     padding: 0 10px;
     font-size: 12px;
@@ -134,10 +183,10 @@ header{
     z-index: 4;
 }
 
-.menu >li .hover{
+.menu > li.hover{
     position: absolute;
     right: 15px;
-    text: 0;
+    top: 0;
     bottom: 0;
     height: 100%;
     -webkit-transition: all 0.3s ease-in-out;
@@ -147,57 +196,20 @@ header{
     transform: scale(1);
 }
 
-.bars-icon:before{
-    content: "\E138\00FE0E";
-    font-family: digikala;
-    vertical-align: middle;
-    margin-left: 4px;
-    font-size: 20px;
-}
-
-.bucket-icon:before{
-    content: "\E089\00FE0E";
-    font-family: digikala;
-    vertical-align: middle;
-    margin-left: 4px;
-    font-size: 20px;
-}
-
-.discount-icon:before{
-    content: "\E057\00FE0E";
-    font-family: digikala;
-    vertical-align: middle;
-    margin-left: 4px;
-    font-size: 20px;
-
-}
-
-.certified-icon:before{
-    content: "\E075\00FE0E";
-    font-family: digikala;
-    vertical-align: middle;
-    margin-left: 4px;
-    font-size: 20px;
-
-}
-
-.chain-icon:before{
-    content: "\E0FB\00FE0E";
-    font-family: digikala;
-    vertical-align: middle;
-    margin-left: 4px;
-    font-size: 20px;
-
-}
-
-.menu >li.hoverb >div:before{
+.menu > li.hover > div:before{
     content: "";
     position: absolute;
     width: 100%;
     bottom: 0;
-    z-index: 3;
+    z-index: 4;
     left: 0;
     right: 0;
     height: 2px;
     background-color: #ef5661;
+}
+
+.addres{
+    font-family: yekan;
+    font-size: 12px;
+    color: #616161;
 }
